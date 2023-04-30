@@ -1,1 +1,6 @@
+# A .gitignore is a special file that tells Git which files and folders it should 
+# ignore. This is useful if you have big files that are generated automatically 
+# or if you'd like to keep local configuration files separate.
+
+# Ignores all files in the ignore-me folder. Try adding a file and see for yourself!
 ignore-me/
